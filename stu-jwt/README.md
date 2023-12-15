@@ -10,7 +10,7 @@ Attention, you must have a backend that adheres to the standards explained in th
 Clone the project using [bun.sh](https://bun.sh)
 
 ```bash
-  bunx degit prstance/STU-jwt STU-jwt
+  bunx degit prstance/templates/stu-jwt STU-jwt
 ```
 
 Go to the project directory
