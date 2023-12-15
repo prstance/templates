@@ -1,0 +1,32 @@
+{
+  "name": "stu-jwt",
+  "version": "0.0.1",
+  "description": "Basic frontend template handling JWT authentication with SolidJs, Typescript, and Unocss.",
+  "author": "prstance",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "lint": "eslint . --ext .ts,tsx"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.8.0",
+    "@typescript-eslint/parser": "^6.8.0",
+    "@unocss/eslint-config": "^0.56.5",
+    "eslint": "^8.51.0",
+    "eslint-plugin-solid": "^0.13.0",
+    "solid-devtools": "^0.27.3",
+    "typescript": "^5.2.2",
+    "unocss": "^0.56.5",
+    "vite": "^4.3.9",
+    "vite-plugin-solid": "^2.7.0"
+  },
+  "dependencies": {
+    "@solid-primitives/storage": "^2.1.1",
+    "@solidjs/router": "^0.8.2",
+    "jwt-decode": "^4.0.0",
+    "solid-js": "^1.7.6"
+  }
+}
