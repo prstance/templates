@@ -1,8 +1,7 @@
 {
-  "name": "stu-jwt",
+  "name": "stu-template",
   "version": "0.0.1",
-  "description": "Basic frontend template handling JWT authentication with SolidJS, Typescript, and UnoCSS.",
-  "author": "prstance",
+  "description": "Basic SolidJS + Typescript + UnoCSS template.",
   "scripts": {
     "start": "vite",
     "dev": "vite",
@@ -24,9 +23,7 @@
     "vite-plugin-solid": "^2.7.0"
   },
   "dependencies": {
-    "@solid-primitives/storage": "^2.1.1",
     "@solidjs/router": "^0.8.2",
-    "jwt-decode": "^4.0.0",
     "solid-js": "^1.7.6"
   }
 }
